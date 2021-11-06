@@ -1,0 +1,36 @@
+ul, li {
+    text-decoration: none;
+    list-style: none;
+}
+.nona {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: aqua;
+    margin: 0 auto;
+    max-width: 780px;
+   
+
+}
+ul {
+    display: flex;
+    background-color: brown;
+    flex-wrap: wrap;
+    
+
+
+}
+li {
+   margin: 20px;
+  
+}
+.grid {
+    
+    
+    
+   
+}
+.gridiv {
+    
+    
+    
+}
