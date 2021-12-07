@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+td {
+    border :1px solid black;
+    padding: 8px;
+
+}
+td:hover  {
+    transition: 0.1s;
+    color: rgb(43, 43, 43);
+    background-color: rgb(172, 172, 172);
+    border :1px solid black;
+    padding: 8px;
+
+}
+tr {
+    color: rgb(224, 224, 224);
+    background-color: rgb(92, 92, 92);
+}
+tr:hover {
+    transition: 0.2s;
+    color: rgb(218, 218, 218);
+    background-color: rgb(121, 121, 121);
+}
+table {
+    border-collapse: collapse;
+}
